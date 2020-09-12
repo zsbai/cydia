@@ -1,0 +1,13 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "图片链接",
+            "title": "白白白白白鹭",
+            "package": "",
+            "repoName": "™"
+        }
+    ]
+}
